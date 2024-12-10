@@ -1,9 +1,9 @@
-👋 Hi, I'm Tejaswini Baskar!
-🎓 Sophomore at SRM University | M.Tech (Integrated) in CSE - Data Science
-💻 Aspiring Full-Stack Developer | Currently mastering Python 🐍
-📚 Passionate about Data Science, Web Development, and Open Source
-📩 Feel free to reach out: tejaswinibaskarworkspace@gmail.com
-🌟 Let's collaborate on innovative ideas and create amazing things!
+-👋 Hi, I'm Tejaswini Baskar!
+-🎓 Sophomore at SRM University | M.Tech (Integrated) in CSE - Data Science
+-💻 Aspiring Full-Stack Developer | Currently mastering Python 🐍
+-📚 Passionate about Data Science, Web Development, and Open Source
+-📩 Feel free to reach out: tejaswinibaskarworkspace@gmail.com
+-🌟 Let's collaborate on innovative ideas and create amazing things!
 
 
 <!---
